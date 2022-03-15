@@ -1,0 +1,19 @@
+{
+  "name": "@stargazer4/publishing-packages",
+  "version": "1.0.0",
+  "description": "testing publishing chickenlittle hi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stargazer4/publishing-packages.git"
+  },
+  "author": "stargazer4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stargazer4/publishing-packages/issues"
+  },
+  "homepage": "https://github.com/stargazer4/publishing-packages#readme"
+}
